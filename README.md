@@ -1,4 +1,4 @@
-# Mall-Customer-Segmentation-
+# Mall-Customer-Segmentation
 Market Basket Analysis
 
 Context
