@@ -14,7 +14,7 @@ You own the mall and want to understand the customers like who can be easily con
 Acknowledgements
 From Udemy's Machine Learning A-Z course.
 
-link : https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+link : https://www.kaggle.com/shwetabh123/mall-customers
 
 About this file
 This file contains the basic information (ID, age, gender, income, spending score) about the customers
